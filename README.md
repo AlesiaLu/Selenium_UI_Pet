@@ -1,3 +1,3 @@
-Selenium UI Pet
+# Selenium UI Pet - Educational Project
 
-Проект автоматизированного UI тестирования сайта http://34.141.58.52:8080/#/
+The project of automated UI testing of: http://34.141.58.52:8080/#/
